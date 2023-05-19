@@ -15,7 +15,7 @@ jobs:
       - name: Generate GitHub Profile 3D Contrib
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.THREED_SECRET }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
@@ -24,3 +24,4 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
