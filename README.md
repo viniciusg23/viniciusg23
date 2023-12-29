@@ -19,17 +19,17 @@
 - ⚡ Fun fact **I love football and video games 🏈🎮** 
 <br/>
 
----
+
 
 <!-- connect with me section -->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
-<p align="center">
-  <div align="center"  class="icons-social" style="margin-left: 10px;">
+<p>
+  <div  class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/vin%C3%ADcius-gonzaga-guilherme-9a65a722a/"> 
       <img width=40 src="https://skillicons.dev/icons?i=linkedin">
     </a>
@@ -43,11 +43,11 @@
 
 <!-- technologies session -->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">Languages and Tools 🔧</h2></summary>
   </ul>
 </div>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,java,mongodb,mysql,linux,docker,git,express,html,css,sequelize" />
   </a>
