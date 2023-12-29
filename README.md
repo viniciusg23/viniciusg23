@@ -6,11 +6,9 @@
   <img align="right" top="500" height="300" width="430" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d profile status">
 </a>
 
-- 🔭 I’m currently working on [Crafting Code](https://github.com/viniciusg23/study-plataform)
+- 🔭 I’m currently working on My Portifolio
 
-- 🌱 I’m currently learning **TypeScript, Reactjs**
-
-- 👨‍💻 All of my projects are available at [#commingsoon](#commingsoon)
+- 🌱 I’m currently learning **Spring Boot & React Native**
 
 - 💬 Ask me about **JavaScript and C any time**
 
