@@ -6,13 +6,13 @@
   <img align="right" top="500" height="300" width="430" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d profile status">
 </a>
 
-- 🔭 I’m currently working on My Portifolio
+- 🔭 I’m currently working on [Productivity App](https://github.com/viniciusg23/productivity-app)
 
 - 🌱 I’m currently learning **Spring Boot, React Native and Terraform**
 
 - 💬 Ask me about **TypeScript and Java any time**
 
-- 📫 How to reach me **viniciusgonzagaguilherme@gmail.com**
+- 📫 How to reach me [Here](mailto:viniciusgonzagaguilherme@gmail.com)
 
 - 📄 Know about my experiences <a href="https://viniicius.com" target="_blank">My Website</a>
 
