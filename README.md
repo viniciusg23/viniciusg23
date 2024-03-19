@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on My Portifolio
 
-- 🌱 I’m currently learning **Spring Boot & React Native**
+- 🌱 I’m currently learning **Spring Boot, React Native and Terraform**
 
-- 💬 Ask me about **JavaScript and C any time**
+- 💬 Ask me about **TypeScript and Java any time**
 
 - 📫 How to reach me **viniciusgonzagaguilherme@gmail.com**
 
-- 📄 Know about my experiences [#commingsoon](#commingsoon)
+- 📄 Know about my experiences [Web Site](https://viniicus.com)
 
 - ⚡ Fun fact **I love football and video games 🏈🎮** 
 <br/>
@@ -49,6 +49,6 @@
 </div>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,java,mongodb,mysql,linux,docker,git,express,html,css,sequelize" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,react,redux,materialui,angular,java,spring,mongodb,mysql,linux,docker,git,aws,terraform" />
   </a>
 </p>
