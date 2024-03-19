@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **viniciusgonzagaguilherme@gmail.com**
 
-- 📄 Know about my experiences [Web Site](https://viniicus.com)
+- 📄 Know about my experiences <a href="https://viniicius.com" target="_blank">My Website</a>
 
 - ⚡ Fun fact **I love football and video games 🏈🎮** 
 <br/>
